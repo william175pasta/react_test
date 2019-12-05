@@ -1,8 +1,8 @@
 
-// import * as React from 'react';
+import * as React from 'react';
 
-// export const Hello = () => (
+export const Hello = () => (
 
-//     <h2>run test</h2>
+    <h2>run test</h2>
 
-// );
+);

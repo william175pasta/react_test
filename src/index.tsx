@@ -1,12 +1,12 @@
-// import * as React from 'react';
-// import { render } from 'react-dom';
-// import { Hello } from "./components/Hello";
-// import { Content } from "./components/Content";
-// const APP = () => (
-//     <Hello />
+import * as React from 'react';
+import { render } from 'react-dom';
+import { Hello } from "./components/Hello";
+
+const APP = () => (
+    <Hello />
 
 
-// );
+);
 
 
-// render(<APP />, document.getElementById('root'));
+render(<APP />, document.getElementById('root'));
